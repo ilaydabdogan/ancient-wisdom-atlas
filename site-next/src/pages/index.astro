@@ -151,7 +151,7 @@ const flagship = survivors.slice().sort((a, b) => b.consistency - a.consistency)
         </p>
       </div>
       <ConstellationRing
-        caption={`The one web: ${fmtInt(web?.size)} motif families joined by ${fmtInt(web?.internal_edges)} edges conserved across at least ${fmtInt(constDoc.summary?.min_traditions)} unrelated traditions. Drawn from the constellation index at build time — every chord is a real edge.`}
+        caption={`The one web: ${fmtInt(web?.size)} of the ${fmtInt(stats.canonicalFamilyCount)} canonical families — those whose bonds survive the chance test — joined by ${fmtInt(web?.internal_edges)} edges conserved across at least ${fmtInt(constDoc.summary?.min_traditions)} unrelated traditions. Drawn from the constellation index at build time — every chord is a real edge.`}
       />
     </section>
 
@@ -244,7 +244,7 @@ const flagship = survivors.slice().sort((a, b) => b.consistency - a.consistency)
         <p class="rubric">The descent</p>
         <h2 class="display-italic">The one web is walkable.</h2>
         <p>
-          From the One to its {fmtInt(web?.size)} constellation families, down through
+          From the One to its {fmtInt(web?.size)} web-forming families (of {fmtInt(stats.canonicalFamilyCount)} in all), down through
           sub-families to single motifs, each resting on quoted passages in the books
           themselves. Every claim above is a path you can follow to its evidence.
         </p>
