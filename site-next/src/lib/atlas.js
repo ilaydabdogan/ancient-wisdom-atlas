@@ -122,6 +122,22 @@ export function crownExperiment() {
   return loadYaml('indexes/crown-independent-taxonomy.yml');
 }
 
+/**
+ * The live cross-model trickster experiment, if it has been written yet.
+ * Returns the parsed doc from data/reviews/trickster-model-comparison.yml,
+ * or null when the run has not landed — so the page can render a clearly
+ * marked placeholder instead of failing the build.
+ */
+export function trickModelComparison() {
+  const full = path.join(DATA, 'reviews', 'trickster-model-comparison.yml');
+  if (!fs.existsSync(full)) return null;
+  try {
+    return yaml.load(fs.readFileSync(full, 'utf8'));
+  } catch {
+    return null;
+  }
+}
+
 export function replicationAgreement() {
   return loadYaml('indexes/replication-agreement.yml');
 }

@@ -51,24 +51,27 @@ inspectable in the Lab, down to the passages.*
 
 ---
 
-*Postscript, after the far shores arrived.* I owe the trickster an
-apology — and the apology is the finding. When this letter was written,
-our corpus was still mostly the old connected world, and there he held
-eight partnerships, nearly the loneliest figure in the web. Then the
-isolated lineages entered the Atlas — and they are *his* countries. The
-Raven cycles of the Chukchee, Koryak, Tlingit, and Haida; Coyote on the
-plains and in the deserts; the spider on two continents. With his own
-peoples finally in the evidence, the trickster now stands in fifty-six
-traditions with twenty-two conserved partnerships — and ten of his bonds
-re-formed independently across the oceans. What we had measured as his
-solitude was partly the shape of our own library.
+*Postscript, after the far shores arrived — and then the crown.* This
+letter has been rewritten once already, and the rewriting is itself the
+lesson. When it was first written, our corpus was still mostly the old
+connected world, and the trickster held only a handful of partnerships —
+nearly the loneliest figure in the web. Then the isolated lineages
+entered the Atlas — the Raven cycles of the Chukchee, Koryak, Tlingit,
+and Haida; Coyote on the plains and in the deserts; the spider on two
+continents — and he swelled into sixty-eight traditions with twenty-two
+conserved partnerships, his strongest bond, across twenty-five
+traditions, with sacred knowledge itself: the thief of fire, caught
+mid-theft. For a moment I thought I had been wrong about his solitude —
+that it was only the shape of our library.
 
-He remains, true to himself, below the great hubs — exchange and
-knowledge hold twenty-seven partnerships to his twenty-two — and his
-single strongest bond, in twenty-two traditions, is with sacred
-knowledge itself: the thief of fire, forever caught mid-theft. But the
-deeper lesson of this postscript belongs to the method, not the god:
-an absence in the data may be an absence in the world, or an absence in
-your library — and only more world can tell you which. He slipped our
-net once more, this time by being more connected than we thought. He
-would be pleased either way.
+Then came the crown, the strictest test we have: build each world's map
+of myth blind and ask which bonds re-form in both. And there the
+trickster returned to type, decisively. Of the twenty-four strongest
+bonds shared across peoples who never met, the afterlife appears in
+fourteen, ritual in fifteen, war in twelve — and the trickster in one,
+and that one the loosest of all. He is present in nearly every culture
+on earth and pinned to none: everywhere, yet allied to nothing that
+carries across. His presence is universal; his companions are local. He
+will not be webbed. So the letter's title stands truer than when I gave
+it: he refused our net, and refused it again under the one method built
+to catch him. He would, I think, be delighted.
